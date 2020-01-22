@@ -50,3 +50,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Disclaimer
+PT-Calculator and AirForceCalculator.com are not affiliated with the United States Air Force or any component of the United States Department of Defense. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
